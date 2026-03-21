@@ -18,7 +18,7 @@ Visualização do projeto em diferentes dispositivos:
 
 ![Preview Mobile](preview/mobile.png)
 
-🔗 **Deploy:** https://alanborgesdev.github.io/results-summary
+🔗 **Deploy:** https://alanborgesdev.github.io/results-summary  
 📁 **Repositório:** https://github.com/alanborgesdev/results-summary
 
 ---
