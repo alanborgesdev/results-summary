@@ -149,6 +149,9 @@ h3 {
     background: linear-gradient(var(--light-slate-blue), var(--light-royal-blue));
 }
 
+.btn-continue:active {
+    transform: scale(0.97);
+}
 
 @media (max-width: 600px) {
     body {
