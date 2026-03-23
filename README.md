@@ -2,7 +2,9 @@
 
 Um componente de resumo de resultados focado em UI moderna, responsividade e fidelidade visual.
 
-Desenvolvido com HTML e CSS puro, o projeto simula um dashboard de performance com métricas como Reaction, Memory, Verbal e Visual — um padrão comum em aplicações SaaS e produtos de análise de dados.
+Desenvolvido com HTML e CSS puro, o projeto simula um dashboard de performance com métricas como Reaction, Memory, Verbal e Visual, um padrão comum em aplicações SaaS e produtos de análise de dados.
+
+💡 Baseado em um challenge do Frontend Mentor, com adaptações focadas em práticas reais de desenvolvimento.
 
 ---
 
@@ -18,7 +20,7 @@ Visualização do projeto em diferentes dispositivos:
 
 ![Preview Mobile](preview/mobile.png)
 
-🔗 **Deploy:** https://alanborgesdev.github.io/results-summary  
+🔗 **Deploy:** https://alanborgesdev.github.io/results-summary
 📁 **Repositório:** https://github.com/alanborgesdev/results-summary
 
 ---
@@ -40,7 +42,6 @@ A solução destaca-se pelo uso de CSS moderno para criar layouts fluidos e cons
 
 Aplicar boas práticas de desenvolvimento Front-End alinhadas ao mercado:
 
-* 📱 **Mobile-First:** Desenvolvimento iniciado para dispositivos móveis
 * 🎨 **Escalabilidade:** Uso de variáveis CSS para facilitar manutenção e evolução
 * ♿ **Acessibilidade:** HTML semântico para melhor leitura e SEO
 * 🎯 **Fidelidade Visual:** Precisão em espaçamentos, cores e gradientes
@@ -52,7 +53,6 @@ Aplicar boas práticas de desenvolvimento Front-End alinhadas ao mercado:
 * HTML5 (estrutura semântica)
 * CSS3 (Flexbox, Gradientes e Responsividade)
 * CSS Variables (Custom Properties)
-* Metodologia Mobile-First
 * Google Fonts (Hanken Grotesk)
 
 ---
